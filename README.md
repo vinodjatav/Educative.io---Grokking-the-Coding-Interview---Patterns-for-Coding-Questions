@@ -1,5 +1,5 @@
 # Educative.io---Grokking-the-Coding-Interview---Patterns-for-Coding-Questions
-Educative.io - Grokking the Coding Interview - Patterns for Coding Questions
+Educative.io - Grokking the Coding Interview - Patterns for Coding Questions.
 
 ## Takeaway Skills
 1) Understand the essential patterns behind common coding interview questions — without having to drill endless problem sets

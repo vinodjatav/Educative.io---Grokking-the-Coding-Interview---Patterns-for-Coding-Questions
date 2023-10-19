@@ -1,4 +1,4 @@
 .idea
 .classpath
-out
-bin
+out/
+bin/

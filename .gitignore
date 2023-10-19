@@ -1,4 +1,4 @@
-.idea/
-bin/
+.idea
+.classpath
 out
-Educative.io---Grokking-the-Coding-Interview---Patterns-for-Coding-Questions.iml
+bin
